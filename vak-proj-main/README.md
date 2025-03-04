@@ -13,7 +13,7 @@ Ensure you have the following installed on your system:
 
 ### 1 Clone the Repository
 ```sh
-git clone https://github.com/your-username/your-angular-project.git
+git clone https://github.com/Viswak1408/ecommerce.git
 cd your-angular-project
 ```
 ### 2 Install Dependencies
