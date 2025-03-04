@@ -1,0 +1,13 @@
+.product-card {
+    display: flex;
+    justify-content: center;
+}
+
+.product-card:hover {
+    box-shadow: 5px 5px 5px 5px gray;
+    transition-duration: 200ms;
+}
+
+.card-body>* {
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+.title {
+    font-size: 10vh;
+    color: #181E36;
+    font-style: normal;
+    text-align: center;
+}
+
+.subtitle {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.home-pad>* {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#logo {
+    max-width: 90vw;
+}

@@ -1,0 +1,20 @@
+.store-title {
+    text-align: center;
+    font-size: 4vh;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+}
+
+.product-detail {
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px gray;
+}
+
+.child-pad>* {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.img-child-pad>* {
+    padding: 40px;
+}
